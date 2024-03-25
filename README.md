@@ -21,9 +21,3 @@
 
 🤝 Contributions:
 Contributions are welcomed! Feel free to fork the project, add features, or improve existing ones. Let's make JavaChat even more powerful together!
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 026f00f83f27ea64f1cb3d6cdeba2b5b8001e221
