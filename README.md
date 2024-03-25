@@ -5,6 +5,9 @@
 - Server-client architecture for seamless message exchange.
 - Clean and modular Java codebase for easy understanding and customization.
 
+![🌟 Explore the Demo:](Demo.png?raw=true "Java Chat App")
+
+
 🚀 Highlights:
 - Quick and easy setup.
 - Suitable for educational purposes or as a foundation for building more advanced chat applications.
@@ -19,6 +22,5 @@
 🤝 Contributions:
 Contributions are welcomed! Feel free to fork the project, add features, or improve existing ones. Let's make JavaChat even more powerful together!
 
-🌟 Explore the Demo:
-![Output](output.png)
+
 
