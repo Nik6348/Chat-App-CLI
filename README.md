@@ -22,6 +22,8 @@
 🤝 Contributions:
 Contributions are welcomed! Feel free to fork the project, add features, or improve existing ones. Let's make JavaChat even more powerful together!
 
-🌟 Explore the Demo:
-![Output](output.png)
+<<<<<<< HEAD
 
+
+=======
+>>>>>>> 026f00f83f27ea64f1cb3d6cdeba2b5b8001e221
